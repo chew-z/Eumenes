@@ -1,0 +1,652 @@
+{
+    "DZ": {
+        "country_name": "Algeria",
+        "country_code": "DZ",
+        "itunes_storefront_id": "143563"
+    },
+    "AO": {
+        "country_name": "Angola",
+        "country_code": "AO",
+        "itunes_storefront_id": "143564"
+    },
+    "AI": {
+        "country_name": "Anguilla",
+        "country_code": "AI",
+        "itunes_storefront_id": "143538"
+    },
+    "AG": {
+        "country_name": "Antigua & Barbuda",
+        "country_code": "AG",
+        "itunes_storefront_id": "143540"
+    },
+    "AR": {
+        "country_name": "Argentina",
+        "country_code": "AR",
+        "itunes_storefront_id": "143505"
+    },
+    "AM": {
+        "country_name": "Armenia",
+        "country_code": "AM",
+        "itunes_storefront_id": "143524"
+    },
+    "AU": {
+        "country_name": "Australia",
+        "country_code": "AU",
+        "itunes_storefront_id": "143460"
+    },
+    "AT": {
+        "country_name": "Austria",
+        "country_code": "AT",
+        "itunes_storefront_id": "143445"
+    },
+    "AZ": {
+        "country_name": "Azerbaijan",
+        "country_code": "AZ",
+        "itunes_storefront_id": "143568"
+    },
+    "BH": {
+        "country_name": "Bahrain",
+        "country_code": "BH",
+        "itunes_storefront_id": "143559"
+    },
+    "BD": {
+        "country_name": "Bangladesh",
+        "country_code": "BD",
+        "itunes_storefront_id": "143490"
+    },
+    "BB": {
+        "country_name": "Barbados",
+        "country_code": "BB",
+        "itunes_storefront_id": "143541"
+    },
+    "BY": {
+        "country_name": "Belarus",
+        "country_code": "BY",
+        "itunes_storefront_id": "143565"
+    },
+    "BE": {
+        "country_name": "Belgium",
+        "country_code": "BE",
+        "itunes_storefront_id": "143446"
+    },
+    "BZ": {
+        "country_name": "Belize",
+        "country_code": "BZ",
+        "itunes_storefront_id": "143555"
+    },
+    "BM": {
+        "country_name": "Bermuda",
+        "country_code": "BM",
+        "itunes_storefront_id": "143542"
+    },
+    "BO": {
+        "country_name": "Bolivia",
+        "country_code": "BO",
+        "itunes_storefront_id": "143556"
+    },
+    "BW": {
+        "country_name": "Botswana",
+        "country_code": "BW",
+        "itunes_storefront_id": "143525"
+    },
+    "BR": {
+        "country_name": "Brazil",
+        "country_code": "BR",
+        "itunes_storefront_id": "143503"
+    },
+    "VG": {
+        "country_name": "British Virgin Islands",
+        "country_code": "VG",
+        "itunes_storefront_id": "143543"
+    },
+    "BN": {
+        "country_name": "Brunei",
+        "country_code": "BN",
+        "itunes_storefront_id": "143560"
+    },
+    "BG": {
+        "country_name": "Bulgaria",
+        "country_code": "BG",
+        "itunes_storefront_id": "143526"
+    },
+    "CA": {
+        "country_name": "Canada",
+        "country_code": "CA",
+        "itunes_storefront_id": "143455"
+    },
+    "KY": {
+        "country_name": "Cayman Islands",
+        "country_code": "KY",
+        "itunes_storefront_id": "143544"
+    },
+    "CL": {
+        "country_name": "Chile",
+        "country_code": "CL",
+        "itunes_storefront_id": "143483"
+    },
+    "CN": {
+        "country_name": "China",
+        "country_code": "CN",
+        "itunes_storefront_id": "143465"
+    },
+    "CO": {
+        "country_name": "Colombia",
+        "country_code": "CO",
+        "itunes_storefront_id": "143501"
+    },
+    "CR": {
+        "country_name": "Costa Rica",
+        "country_code": "CR",
+        "itunes_storefront_id": "143495"
+    },
+    "CI": {
+        "country_name": "Cote D’Ivoire",
+        "country_code": "CI",
+        "itunes_storefront_id": "143527"
+    },
+    "HR": {
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "itunes_storefront_id": "143494"
+    },
+    "CY": {
+        "country_name": "Cyprus",
+        "country_code": "CY",
+        "itunes_storefront_id": "143557"
+    },
+    "CZ": {
+        "country_name": "Czech Republic",
+        "country_code": "CZ",
+        "itunes_storefront_id": "143489"
+    },
+    "DK": {
+        "country_name": "Denmark",
+        "country_code": "DK",
+        "itunes_storefront_id": "143458"
+    },
+    "DM": {
+        "country_name": "Dominica",
+        "country_code": "DM",
+        "itunes_storefront_id": "143545"
+    },
+    "DO": {
+        "country_name": "Dominican Rep.",
+        "country_code": "DO",
+        "itunes_storefront_id": "143508"
+    },
+    "EC": {
+        "country_name": "Ecuador",
+        "country_code": "EC",
+        "itunes_storefront_id": "143509"
+    },
+    "EG": {
+        "country_name": "Egypt",
+        "country_code": "EG",
+        "itunes_storefront_id": "143516"
+    },
+    "SV": {
+        "country_name": "El Salvador",
+        "country_code": "SV",
+        "itunes_storefront_id": "143506"
+    },
+    "EE": {
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "itunes_storefront_id": "143518"
+    },
+    "FI": {
+        "country_name": "Finland",
+        "country_code": "FI",
+        "itunes_storefront_id": "143447"
+    },
+    "FR": {
+        "country_name": "France",
+        "country_code": "FR",
+        "itunes_storefront_id": "143442"
+    },
+    "DE": {
+        "country_name": "Germany",
+        "country_code": "DE",
+        "itunes_storefront_id": "143443"
+    },
+    "GH": {
+        "country_name": "Ghana",
+        "country_code": "GH",
+        "itunes_storefront_id": "143573"
+    },
+    "GR": {
+        "country_name": "Greece",
+        "country_code": "GR",
+        "itunes_storefront_id": "143448"
+    },
+    "GD": {
+        "country_name": "Grenada",
+        "country_code": "GD",
+        "itunes_storefront_id": "143546"
+    },
+    "GT": {
+        "country_name": "Guatemala",
+        "country_code": "GT",
+        "itunes_storefront_id": "143504"
+    },
+    "GY": {
+        "country_name": "Guyana",
+        "country_code": "GY",
+        "itunes_storefront_id": "143553"
+    },
+    "HN": {
+        "country_name": "Honduras",
+        "country_code": "HN",
+        "itunes_storefront_id": "143510"
+    },
+    "HK": {
+        "country_name": "Hong Kong",
+        "country_code": "HK",
+        "itunes_storefront_id": "143463"
+    },
+    "HU": {
+        "country_name": "Hungary",
+        "country_code": "HU",
+        "itunes_storefront_id": "143482"
+    },
+    "IS": {
+        "country_name": "Iceland",
+        "country_code": "IS",
+        "itunes_storefront_id": "143558"
+    },
+    "IN": {
+        "country_name": "India",
+        "country_code": "IN",
+        "itunes_storefront_id": "143467"
+    },
+    "ID": {
+        "country_name": "Indonesia",
+        "country_code": "ID",
+        "itunes_storefront_id": "143476"
+    },
+    "IE": {
+        "country_name": "Ireland",
+        "country_code": "IE",
+        "itunes_storefront_id": "143449"
+    },
+    "IL": {
+        "country_name": "Israel",
+        "country_code": "IL",
+        "itunes_storefront_id": "143491"
+    },
+    "IT": {
+        "country_name": "Italy",
+        "country_code": "IT",
+        "itunes_storefront_id": "143450"
+    },
+    "JM": {
+        "country_name": "Jamaica",
+        "country_code": "JM",
+        "itunes_storefront_id": "143511"
+    },
+    "JP": {
+        "country_name": "Japan",
+        "country_code": "JP",
+        "itunes_storefront_id": "143462"
+    },
+    "JO": {
+        "country_name": "Jordan",
+        "country_code": "JO",
+        "itunes_storefront_id": "143528"
+    },
+    "KZ": {
+        "country_name": "Kazakstan",
+        "country_code": "KZ",
+        "itunes_storefront_id": "143517"
+    },
+    "KE": {
+        "country_name": "Kenya",
+        "country_code": "KE",
+        "itunes_storefront_id": "143529"
+    },
+    "KR": {
+        "country_name": "Korea, Republic Of",
+        "country_code": "KR",
+        "itunes_storefront_id": "143466"
+    },
+    "KW": {
+        "country_name": "Kuwait",
+        "country_code": "KW",
+        "itunes_storefront_id": "143493"
+    },
+    "LV": {
+        "country_name": "Latvia",
+        "country_code": "LV",
+        "itunes_storefront_id": "143519"
+    },
+    "LB": {
+        "country_name": "Lebanon",
+        "country_code": "LB",
+        "itunes_storefront_id": "143497"
+    },
+    "LI": {
+        "country_name": "Liechtenstein",
+        "country_code": "LI",
+        "itunes_storefront_id": "143522"
+    },
+    "LT": {
+        "country_name": "Lithuania",
+        "country_code": "LT",
+        "itunes_storefront_id": "143520"
+    },
+    "LU": {
+        "country_name": "Luxembourg",
+        "country_code": "LU",
+        "itunes_storefront_id": "143451"
+    },
+    "MO": {
+        "country_name": "Macau",
+        "country_code": "MO",
+        "itunes_storefront_id": "143515"
+    },
+    "MK": {
+        "country_name": "Macedonia",
+        "country_code": "MK",
+        "itunes_storefront_id": "143530"
+    },
+    "MG": {
+        "country_name": "Madagascar",
+        "country_code": "MG",
+        "itunes_storefront_id": "143531"
+    },
+    "MY": {
+        "country_name": "Malaysia",
+        "country_code": "MY",
+        "itunes_storefront_id": "143473"
+    },
+    "MV": {
+        "country_name": "Maldives",
+        "country_code": "MV",
+        "itunes_storefront_id": "143488"
+    },
+    "ML": {
+        "country_name": "Mali",
+        "country_code": "ML",
+        "itunes_storefront_id": "143532"
+    },
+    "MT": {
+        "country_name": "Malta",
+        "country_code": "MT",
+        "itunes_storefront_id": "143521"
+    },
+    "MU": {
+        "country_name": "Mauritius",
+        "country_code": "MU",
+        "itunes_storefront_id": "143533"
+    },
+    "MX": {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "itunes_storefront_id": "143468"
+    },
+    "MD": {
+        "country_name": "Moldova, Republic Of",
+        "country_code": "MD",
+        "itunes_storefront_id": "143523"
+    },
+    "MS": {
+        "country_name": "Montserrat",
+        "country_code": "MS",
+        "itunes_storefront_id": "143547"
+    },
+    "NP": {
+        "country_name": "Nepal",
+        "country_code": "NP",
+        "itunes_storefront_id": "143484"
+    },
+    "NL": {
+        "country_name": "Netherlands",
+        "country_code": "NL",
+        "itunes_storefront_id": "143452"
+    },
+    "NZ": {
+        "country_name": "New Zealand",
+        "country_code": "NZ",
+        "itunes_storefront_id": "143461"
+    },
+    "NI": {
+        "country_name": "Nicaragua",
+        "country_code": "NI",
+        "itunes_storefront_id": "143512"
+    },
+    "NE": {
+        "country_name": "Niger",
+        "country_code": "NE",
+        "itunes_storefront_id": "143534"
+    },
+    "NG": {
+        "country_name": "Nigeria",
+        "country_code": "NG",
+        "itunes_storefront_id": "143561"
+    },
+    "NO": {
+        "country_name": "Norway",
+        "country_code": "NO",
+        "itunes_storefront_id": "143457"
+    },
+    "OM": {
+        "country_name": "Oman",
+        "country_code": "OM",
+        "itunes_storefront_id": "143562"
+    },
+    "PK": {
+        "country_name": "Pakistan",
+        "country_code": "PK",
+        "itunes_storefront_id": "143477"
+    },
+    "PA": {
+        "country_name": "Panama",
+        "country_code": "PA",
+        "itunes_storefront_id": "143485"
+    },
+    "PY": {
+        "country_name": "Paraguay",
+        "country_code": "PY",
+        "itunes_storefront_id": "143513"
+    },
+    "PE": {
+        "country_name": "Peru",
+        "country_code": "PE",
+        "itunes_storefront_id": "143507"
+    },
+    "PH": {
+        "country_name": "Philippines",
+        "country_code": "PH",
+        "itunes_storefront_id": "143474"
+    },
+    "PL": {
+        "country_name": "Poland",
+        "country_code": "PL",
+        "itunes_storefront_id": "143478"
+    },
+    "PT": {
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "itunes_storefront_id": "143453"
+    },
+    "QA": {
+        "country_name": "Qatar",
+        "country_code": "QA",
+        "itunes_storefront_id": "143498"
+    },
+    "RO": {
+        "country_name": "Romania",
+        "country_code": "RO",
+        "itunes_storefront_id": "143487"
+    },
+    "RU": {
+        "country_name": "Russia",
+        "country_code": "RU",
+        "itunes_storefront_id": "143469"
+    },
+    "SA": {
+        "country_name": "Saudi Arabia",
+        "country_code": "SA",
+        "itunes_storefront_id": "143479"
+    },
+    "SN": {
+        "country_name": "Senegal",
+        "country_code": "SN",
+        "itunes_storefront_id": "143535"
+    },
+    "RS": {
+        "country_name": "Serbia",
+        "country_code": "RS",
+        "itunes_storefront_id": "143500"
+    },
+    "SG": {
+        "country_name": "Singapore",
+        "country_code": "SG",
+        "itunes_storefront_id": "143464"
+    },
+    "SK": {
+        "country_name": "Slovakia",
+        "country_code": "SK",
+        "itunes_storefront_id": "143496"
+    },
+    "SI": {
+        "country_name": "Slovenia",
+        "country_code": "SI",
+        "itunes_storefront_id": "143499"
+    },
+    "ZA": {
+        "country_name": "South Africa",
+        "country_code": "ZA",
+        "itunes_storefront_id": "143472"
+    },
+    "ES": {
+        "country_name": "Spain",
+        "country_code": "ES",
+        "itunes_storefront_id": "143454"
+    },
+    "LK": {
+        "country_name": "Sri Lanka",
+        "country_code": "LK",
+        "itunes_storefront_id": "143486"
+    },
+    "KN": {
+        "country_name": "St. Kitts & Nevis",
+        "country_code": "KN",
+        "itunes_storefront_id": "143548"
+    },
+    "LC": {
+        "country_name": "St. Lucia",
+        "country_code": "LC",
+        "itunes_storefront_id": "143549"
+    },
+    "VC": {
+        "country_name": "St. Vincent & The Grenadines",
+        "country_code": "VC",
+        "itunes_storefront_id": "143550"
+    },
+    "SR": {
+        "country_name": "Suriname",
+        "country_code": "SR",
+        "itunes_storefront_id": "143554"
+    },
+    "SE": {
+        "country_name": "Sweden",
+        "country_code": "SE",
+        "itunes_storefront_id": "143456"
+    },
+    "CH": {
+        "country_name": "Switzerland",
+        "country_code": "CH",
+        "itunes_storefront_id": "143459"
+    },
+    "TW": {
+        "country_name": "Taiwan",
+        "country_code": "TW",
+        "itunes_storefront_id": "143470"
+    },
+    "TZ": {
+        "country_name": "Tanzania",
+        "country_code": "TZ",
+        "itunes_storefront_id": "143572"
+    },
+    "TH": {
+        "country_name": "Thailand",
+        "country_code": "TH",
+        "itunes_storefront_id": "143475"
+    },
+    "BS": {
+        "country_name": "The Bahamas",
+        "country_code": "BS",
+        "itunes_storefront_id": "143539"
+    },
+    "TT": {
+        "country_name": "Trinidad & Tobago",
+        "country_code": "TT",
+        "itunes_storefront_id": "143551"
+    },
+    "TN": {
+        "country_name": "Tunisia",
+        "country_code": "TN",
+        "itunes_storefront_id": "143536"
+    },
+    "TR": {
+        "country_name": "Turkey",
+        "country_code": "TR",
+        "itunes_storefront_id": "143480"
+    },
+    "TC": {
+        "country_name": "Turks & Caicos",
+        "country_code": "TC",
+        "itunes_storefront_id": "143552"
+    },
+    "UG": {
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "itunes_storefront_id": "143537"
+    },
+    "UK": {
+        "country_name": "",
+        "country_code": "UK",
+        "itunes_storefront_id": ""
+    },
+    "UA": {
+        "country_name": "Ukraine",
+        "country_code": "UA",
+        "itunes_storefront_id": "143492"
+    },
+    "AE": {
+        "country_name": "United Arab Emirates",
+        "country_code": "AE",
+        "itunes_storefront_id": "143481"
+    },
+    "UY": {
+        "country_name": "Uruguay",
+        "country_code": "UY",
+        "itunes_storefront_id": "143514"
+    },
+    "US": {
+        "country_name": "",
+        "country_code": "US",
+        "itunes_storefront_id": "A"
+    },
+    "UZ": {
+        "country_name": "Uzbekistan",
+        "country_code": "UZ",
+        "itunes_storefront_id": "143566"
+    },
+    "VE": {
+        "country_name": "Venezuela",
+        "country_code": "VE",
+        "itunes_storefront_id": "143502"
+    },
+    "VN": {
+        "country_name": "Vietnam",
+        "country_code": "VN",
+        "itunes_storefront_id": "143471"
+    },
+    "YE": {
+        "country_name": "Yemen",
+        "country_code": "YE",
+        "itunes_storefront_id": "143571"
+    }
+}
