@@ -11,7 +11,7 @@ Try something like:
 python3 eumenes.py -s US -c JP --auto -p spotify:user:121157076:playlist:58vO2KZUGQnB0OUmhiiBKA
 ```
 
-You can get fine playlists from [playlist.net](http://playlists.net/)
+You can get fine playlists from [playlist.net](http://playlists.net/) *Hint - right click green Play button and select Copy Link Address*
 
 ## How it works
 
