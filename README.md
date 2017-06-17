@@ -15,20 +15,22 @@ You can get fine playlists from [playlist.net](http://playlists.net/)
 
 ## How it works
 
-Depends on methods in anabasis.py.
-
 1) Process Spotify playlist and save necessary info as csv
 2) Search iTunes, find and select best match
-3) Add selected track to Apple Music (iTunes)
-4) Create XML for importing playlist to iTunes Library
+3) Add selected track to Apple Music (iTunes). Repeat 2)
+4) Create XML for importing playlist into iTunes Library
 
 Inspired by [spotify2am](https://github.com/simonschellaert/spotify2am).
 
-Requires you to intercept iTunes cookie as [best described here](https://apple.stackexchange.com/questions/193731/sync-transfer-spotify-playlist-to-apple-music/194528). *Personally I am using [mitmproxy](https://github.com/mitmproxy/mitmproxy) for this - better and free - instead of Charles Proxy.*
+Depends on methods in anabasis.py.
 
-After intercepting iTunes traffic you have to edit headers.conf and change **X-Dsid**, **X-Guid** and **Cookie**. IT WON"T WORK OTHERWISE.
+Requires you to intercept iTunes cookie as [best described here](https://apple.stackexchange.com/questions/193731/sync-transfer-spotify-playlist-to-apple-music/194528).
+*Personally I am using [mitmproxy](https://github.com/mitmproxy/mitmproxy) for this - better and free - instead of Charles Proxy.*
 
-## What's co cool about it?
+After intercepting iTunes traffic you have to edit **headers.conf** and change **X-Dsid**, **X-Guid** and **Cookie**. 
+IT WON"T WORK OTHERWISE.
+
+## What's cool about it?
 
 * Uses matching algorithm of my own design based on lexical proximity (of title, artist, album) and time proximity of release dates
 * Selecting matching tracks is either automatic or user chooses best match manually from candidates
@@ -66,17 +68,18 @@ optional arguments:
   -c COUNTRY_STORE, --country_store COUNTRY_STORE
                         iTunes store front [country] used for adding tracks
                         (default: JP)
-  --csv                 If False don't save Spotify playlist as csv (default:
-                        True)
+  --csv                 If False don't save Spotify playlist as csv. You need
+                        this csv so it only makes sense if you process same
+                        playlist for a second time. (default: True)
   --xml                 If False don't create XML with iTunes playlist
                         (default: True)
   --am                  If False skip adding tracks to iTunes (default: True)
   -e ERROR, --error ERROR
-                        Time-lexical distance between tracks to be considered
-                        insignificant. This one should be rather small because
-                        even if --auto option (see --auto) is False very
-                        similar tracks will be still selected without asking
-                        user. (default: 0.11)
+                        Error margin. Time-lexical distance between tracks to
+                        be considered insignificant. This should be rather
+                        small because even if --auto option (see --auto) is
+                        False very close tracks will be still selected without
+                        asking user. (default: 0.11)
   -a, --auto            If True accept best matching tracks without user
                         intervention even if they at certain time-lexical
                         distance (see --threshold). Time-lexical = similar
@@ -97,12 +100,12 @@ optional arguments:
                         identical. Sometimes it is local name, different
                         romanization etc. Experiment. Read logs. Optimal
                         treshold may differ between playlists and music
-                        genres. (default: 0.45)
+                        genres. (default: 0.4)
   -d DELAY, --delay DELAY
                         Delay in seconds between requests to iTunes to avoid
                         403 error - Too many requests. Longer delays make
-                        execution painful but with large playlist you could
-                        use 30 seconds delay. (default: 5)
+                        execution painful but with large playlist you might
+                        need 30 seconds delay. (default: 30)
 ```
 
 ## Some remarks
