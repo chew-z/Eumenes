@@ -309,7 +309,8 @@ def getArgs(argv=None):
                         help='iTunes store front [country] used for adding tracks')
     parser.add_argument('--csv', default=True,
                         action="store_false",
-                        help='If False don\'t save Spotify playlist as csv')
+                        help='''If False don\'t save Spotify playlist as csv. You need this csv so it only makes sense
+                        if you process same playlist for a second time.''')
     parser.add_argument('--xml', default=True,
                         action="store_false",
                         help='If False don\'t create XML with iTunes playlist')

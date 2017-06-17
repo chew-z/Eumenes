@@ -1,0 +1,6 @@
+arrow>=0.10.0
+lxml>=3.8.0
+requests>=2.18.1
+spotipy>=2.4.4
+unicode-slugify>=0.1.3
+

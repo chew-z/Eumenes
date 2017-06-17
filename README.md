@@ -35,7 +35,8 @@ After intercepting iTunes traffic you have to edit headers.conf and change **X-D
 * Matching conditions are flexible - good matches pass automatically, dubious matches are left to user decision
 * You can search and add tracks in any country (technically iTunes storefront)
 * Flexible delay mechanism dealing with 403 error (Too many requests) when searching iTunes and adding tracks
-* Builds XML playlist for iTunes
+* Builds XML playlist for iTunes and comments
+* Honors Spotify playlist title 
 * Everything in one script - retrieving Spotify info, matching with Apple Music, adding tracks, building playlist XML
 * Pretty detailed logging - educational if you fancy looking into logs
 
@@ -112,6 +113,7 @@ optional arguments:
 * In a playlist set view to *Songs* and ad column with iCloud status. It helps to see what is going on.
 * If a playlist is marked with crossed cloud be patient, iTunes will mark it as OK once it processes all tracks.
 * If you get into trouble with tracks *No Longer Available*, *Error* try again. Run eumenes.py again on the same playlist. Remove playlist and add again. Etc.
+* Some pretty obvious tracks cannot be found (it is mostly technicality as they are not marked as *isStreamable*) I am working on it.
 * Watch in logs for error 403 - Too many requests.
 
 

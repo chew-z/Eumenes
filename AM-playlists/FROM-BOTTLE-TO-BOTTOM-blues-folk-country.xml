@@ -1,0 +1,1159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"         "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application Version</key>
+	<string>12.6.1.25</string>
+	<key>Date</key>
+	<date>2017-06-17T12:15:25Z</date>
+	<key>Features</key>
+	<string>5</string>
+	<key>Major Version</key>
+	<string>1</string>
+	<key>Minor Version</key>
+	<string>1</string>
+	<key>Show Content Ratings</key>
+	<true/>
+	<key>Tracks</key>
+	<dict>
+		<key>10000</key>
+		<dict>
+			<key>Album</key>
+			<string>One Man Band</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Abner Jay</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>I’m So Depressed</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>One Man Band</string>
+			<key>Sort Artist</key>
+			<string>Abner Jay</string>
+			<key>Sort Name</key>
+			<string>I’m So Depressed</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>235947</integer>
+			<key>Track Count</key>
+			<integer>13</integer>
+			<key>Track ID</key>
+			<integer>10000</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2003</integer>
+		</dict>
+		<key>10002</key>
+		<dict>
+			<key>Album</key>
+			<string>Baez Sings Dylan</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Joan Baez</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Singer/Songwriter</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>It's All Over Now, Baby Blue</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Baez Sings Dylan</string>
+			<key>Sort Artist</key>
+			<string>Joan Baez</string>
+			<key>Sort Name</key>
+			<string>It's All Over Now, Baby Blue</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>206200</integer>
+			<key>Track Count</key>
+			<integer>20</integer>
+			<key>Track ID</key>
+			<integer>10002</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1965</integer>
+		</dict>
+		<key>10004</key>
+		<dict>
+			<key>Album</key>
+			<string>A Creature I Don't Know (Bonus Track Version)</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Laura Marling</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Night After Night</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>A Creature I Don't Know (Bonus Track Version)</string>
+			<key>Sort Artist</key>
+			<string>Laura Marling</string>
+			<key>Sort Name</key>
+			<string>Night After Night</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>308427</integer>
+			<key>Track Count</key>
+			<integer>11</integer>
+			<key>Track ID</key>
+			<integer>10004</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2011</integer>
+		</dict>
+		<key>10006</key>
+		<dict>
+			<key>Album</key>
+			<string>Selected Sides 1934-1948 (Remastered)</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Lead Belly</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>4</integer>
+			<key>Disc Number</key>
+			<integer>4</integer>
+			<key>Genre</key>
+			<string>Acoustic Blues</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Children's Blues</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Selected Sides 1934-1948 (Remastered)</string>
+			<key>Sort Artist</key>
+			<string>Lead Belly</string>
+			<key>Sort Name</key>
+			<string>Children's Blues</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>148560</integer>
+			<key>Track Count</key>
+			<integer>28</integer>
+			<key>Track ID</key>
+			<integer>10006</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2014</integer>
+		</dict>
+		<key>10008</key>
+		<dict>
+			<key>Album</key>
+			<string>Freight Train and Other North Carolina Folk Songs and Tunes</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Elizabeth Cotten</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Singer/Songwriter</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Freight Train</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Freight Train and Other North Carolina Folk Songs and Tunes</string>
+			<key>Sort Artist</key>
+			<string>Elizabeth Cotten</string>
+			<key>Sort Name</key>
+			<string>Freight Train</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>166373</integer>
+			<key>Track Count</key>
+			<integer>14</integer>
+			<key>Track ID</key>
+			<integer>10008</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1989</integer>
+		</dict>
+		<key>10010</key>
+		<dict>
+			<key>Album</key>
+			<string>Townes Van Zandt</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Townes Van Zandt</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Country</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Waiting Around to Die</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Townes Van Zandt</string>
+			<key>Sort Artist</key>
+			<string>Townes Van Zandt</string>
+			<key>Sort Name</key>
+			<string>Waiting Around to Die</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>165187</integer>
+			<key>Track Count</key>
+			<integer>10</integer>
+			<key>Track ID</key>
+			<integer>10010</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1969</integer>
+		</dict>
+		<key>10012</key>
+		<dict>
+			<key>Album</key>
+			<string>WomenFolk - Iconic Women of American Folk</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Barbara Dane</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Singer/Songwriter</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>When I Was a Young Girl</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>WomenFolk - Iconic Women of American Folk</string>
+			<key>Sort Artist</key>
+			<string>Barbara Dane</string>
+			<key>Sort Name</key>
+			<string>When I Was a Young Girl</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>222973</integer>
+			<key>Track Count</key>
+			<integer>20</integer>
+			<key>Track ID</key>
+			<integer>10012</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1959</integer>
+		</dict>
+		<key>10014</key>
+		<dict>
+			<key>Album</key>
+			<string>The Times They Are A-Changin'</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Bob Dylan</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>The Lonesome Death of Hattie Carroll</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>The Times They Are A-Changin'</string>
+			<key>Sort Artist</key>
+			<string>Bob Dylan</string>
+			<key>Sort Name</key>
+			<string>The Lonesome Death of Hattie Carroll</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>348664</integer>
+			<key>Track Count</key>
+			<integer>10</integer>
+			<key>Track ID</key>
+			<integer>10014</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1964</integer>
+		</dict>
+		<key>10016</key>
+		<dict>
+			<key>Album</key>
+			<string>Foreverly</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Billie Joe + Norah</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Down In the Willow Garden</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Foreverly</string>
+			<key>Sort Artist</key>
+			<string>Billie Joe + Norah</string>
+			<key>Sort Name</key>
+			<string>Down In the Willow Garden</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>272360</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>10016</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2013</integer>
+		</dict>
+		<key>10018</key>
+		<dict>
+			<key>Album</key>
+			<string>Dangerous Songs!?</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Pete Seeger</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Singer/Songwriter</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Walking Down Death Row</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Dangerous Songs!?</string>
+			<key>Sort Artist</key>
+			<string>Pete Seeger</string>
+			<key>Sort Name</key>
+			<string>Walking Down Death Row</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>221468</integer>
+			<key>Track Count</key>
+			<integer>21</integer>
+			<key>Track ID</key>
+			<integer>10018</integer>
+			<key>Track Number</key>
+			<integer>16</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1966</integer>
+		</dict>
+		<key>10020</key>
+		<dict>
+			<key>Album</key>
+			<string>Father of the Delta Blues: The Complete 1965 Sessions</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Son House</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>2</integer>
+			<key>Disc Number</key>
+			<integer>2</integer>
+			<key>Genre</key>
+			<string>Blues</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Death Letter</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Father of the Delta Blues: The Complete 1965 Sessions</string>
+			<key>Sort Artist</key>
+			<string>Son House</string>
+			<key>Sort Name</key>
+			<string>Death Letter</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>351333</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>10020</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1992</integer>
+		</dict>
+		<key>10022</key>
+		<dict>
+			<key>Album</key>
+			<string>Passionate Blues</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>J.B. Lenoir</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Blues</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Alabama Blues</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Passionate Blues</string>
+			<key>Sort Artist</key>
+			<string>J.B. Lenoir</string>
+			<key>Sort Name</key>
+			<string>Alabama Blues</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>194373</integer>
+			<key>Track Count</key>
+			<integer>23</integer>
+			<key>Track ID</key>
+			<integer>10022</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>10024</key>
+		<dict>
+			<key>Album</key>
+			<string>It's So Hard to Tell Who's Going to Love You the Best</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Karen Dalton</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Singer/Songwriter</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Blues On the Ceiling</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>It's So Hard to Tell Who's Going to Love You the Best</string>
+			<key>Sort Artist</key>
+			<string>Karen Dalton</string>
+			<key>Sort Name</key>
+			<string>Blues On the Ceiling</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>217573</integer>
+			<key>Track Count</key>
+			<integer>10</integer>
+			<key>Track ID</key>
+			<integer>10024</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1969</integer>
+		</dict>
+		<key>10026</key>
+		<dict>
+			<key>Album</key>
+			<string>A Working Man Can't Get Nowhere Today</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Merle Haggard &amp; The Strangers</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Country</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Running Kind</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>A Working Man Can't Get Nowhere Today</string>
+			<key>Sort Artist</key>
+			<string>Merle Haggard &amp; The Strangers</string>
+			<key>Sort Name</key>
+			<string>Running Kind</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>184640</integer>
+			<key>Track Count</key>
+			<integer>10</integer>
+			<key>Track ID</key>
+			<integer>10026</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1977</integer>
+		</dict>
+		<key>10028</key>
+		<dict>
+			<key>Album</key>
+			<string>Butt Naked Free</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Guy Davis</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Blues</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Sometimes I Wish...</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Butt Naked Free</string>
+			<key>Sort Artist</key>
+			<string>Guy Davis</string>
+			<key>Sort Name</key>
+			<string>Sometimes I Wish...</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>185373</integer>
+			<key>Track Count</key>
+			<integer>14</integer>
+			<key>Track ID</key>
+			<integer>10028</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2000</integer>
+		</dict>
+		<key>10030</key>
+		<dict>
+			<key>Album</key>
+			<string>Skip James Live Vol. 2 Bloomington 1968 Part 1</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Skip James</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Blues</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Crow Jane</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Skip James Live Vol. 2 Bloomington 1968 Part 1</string>
+			<key>Sort Artist</key>
+			<string>Skip James</string>
+			<key>Sort Name</key>
+			<string>Crow Jane</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>143673</integer>
+			<key>Track Count</key>
+			<integer>19</integer>
+			<key>Track ID</key>
+			<integer>10030</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>10032</key>
+		<dict>
+			<key>Album</key>
+			<string>Hoodoo Lady (1933-1937)</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Memphis Minnie &amp; Unknown</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Blues</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>I'm a Bad Luck Woman</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Hoodoo Lady (1933-1937)</string>
+			<key>Sort Artist</key>
+			<string>Memphis Minnie &amp; Unknown</string>
+			<key>Sort Name</key>
+			<string>I'm a Bad Luck Woman</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>180827</integer>
+			<key>Track Count</key>
+			<integer>20</integer>
+			<key>Track ID</key>
+			<integer>10032</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1991</integer>
+		</dict>
+		<key>10034</key>
+		<dict>
+			<key>Album</key>
+			<string>Mal Hombre</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Lydia Mendoza</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Raíces</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Mal Hombre</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Mal Hombre</string>
+			<key>Sort Artist</key>
+			<string>Lydia Mendoza</string>
+			<key>Sort Name</key>
+			<string>Mal Hombre</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>212333</integer>
+			<key>Track Count</key>
+			<integer>24</integer>
+			<key>Track ID</key>
+			<integer>10034</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1934</integer>
+		</dict>
+		<key>10036</key>
+		<dict>
+			<key>Album</key>
+			<string>Cowboy Songs of the Old West</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Alan Lomax</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Country</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>The Dying Cowboy</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Cowboy Songs of the Old West</string>
+			<key>Sort Artist</key>
+			<string>Alan Lomax</string>
+			<key>Sort Name</key>
+			<string>The Dying Cowboy</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>208533</integer>
+			<key>Track Count</key>
+			<integer>20</integer>
+			<key>Track ID</key>
+			<integer>10036</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>10038</key>
+		<dict>
+			<key>Album</key>
+			<string>The Very Best Of</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Jimmie Rodgers</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Country</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Gambling Bar Room Blues</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>The Very Best Of</string>
+			<key>Sort Artist</key>
+			<string>Jimmie Rodgers</string>
+			<key>Sort Name</key>
+			<string>Gambling Bar Room Blues</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>205800</integer>
+			<key>Track Count</key>
+			<integer>33</integer>
+			<key>Track ID</key>
+			<integer>10038</integer>
+			<key>Track Number</key>
+			<integer>17</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>1991</integer>
+		</dict>
+		<key>10040</key>
+		<dict>
+			<key>Album</key>
+			<string>Don't Be a Stranger</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>The Moondoggies</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>Undertaker</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Don't Be a Stranger</string>
+			<key>Sort Artist</key>
+			<string>The Moondoggies</string>
+			<key>Sort Name</key>
+			<string>Undertaker</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>225973</integer>
+			<key>Track Count</key>
+			<integer>18</integer>
+			<key>Track ID</key>
+			<integer>10040</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2008</integer>
+		</dict>
+		<key>10042</key>
+		<dict>
+			<key>Album</key>
+			<string>Colour Green</string>
+			<key>Apple Music</key>
+			<true/>
+			<key>Artist</key>
+			<string>Sibylle Baier</string>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Folk-Rock</string>
+			<key>Kind</key>
+			<string>Apple Music AAC audio file</string>
+			<key>Name</key>
+			<string>The End</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Playlist Only</key>
+			<true/>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Sort Album</key>
+			<string>Colour Green</string>
+			<key>Sort Artist</key>
+			<string>Sibylle Baier</string>
+			<key>Sort Name</key>
+			<string>The End</string>
+			<key>Time</key>
+			<integer>255</integer>
+			<key>Total Time</key>
+			<integer>147667</integer>
+			<key>Track Count</key>
+			<integer>14</integer>
+			<key>Track ID</key>
+			<integer>10042</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+	</dict>
+<key>Playlists</key>
+	<array>
+		<dict>
+			<key>All Items</key>
+			<true/>
+			<key>Description</key>
+			<string>A big ol&amp;#x27; heaping depressing medley of classic blues, folk, &amp;amp; country music for all you lonely cowboys out there. Sad songs of drunkards, murderers, failures, suicidal broken hearted fools, mournful men missing their mamas, fugitives who can never go home again &amp;amp; dopes whose lovers left them.</string>
+			<key>Name</key>
+			<string>FROM BOTTLE TO BOTTOM // blues ▹ folk ▹ country</string>
+			<key>Playlist ID</key>
+			<integer>100001</integer>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key>
+					<integer>10000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10026</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>10042</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	</dict>
+</plist>
