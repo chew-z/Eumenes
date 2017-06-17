@@ -111,9 +111,9 @@ optional arguments:
 ## Some remarks
 
 * It takes time even for medium length playlists. There is a delay after adding each track to Apple Music to avoid being banned due to too many requests.
-* Give iTunes time - iTunes work asynchroniusly based on quues, it takes time to update local Library and process new additions.
-* Wait a little before importing playlist from XML, it works better if tracks had been already processed and downloaded by iTunes
-* In a playlist set view to *Songs* and ad column with iCloud status. It helps to see what is going on.
+* Give iTunes time - iTunes work asynchronously based on queues, it takes time to update local Library and process new additions.
+* Wait a little before importing playlist from XML, import works better if tracks have been already processed and downloaded by iTunes
+* In a playlist set view to *Songs* and add column with iCloud status. It helps to see what is going on.
 * If a playlist is marked with crossed cloud be patient, iTunes will mark it as OK once it processes all tracks.
 * If you get into trouble with tracks *No Longer Available*, *Error* try again. Run eumenes.py again on the same playlist. Remove playlist and add again. Etc.
 * Some pretty obvious tracks cannot be found (it is mostly technicality as they are not marked as *isStreamable*) I am working on it.
@@ -138,7 +138,7 @@ Got tired of finding functional names for my scripts.
 
 ### Eumenes
 
-*Eumenes of Cardia - Greek scribe at Alexander's The Great court who after Alexander's death remained loyal defender of royal house and proved himself excellent general beating in battle and killing (in hand to hand combat) some of most distingushed Macedonian marshals.*
+*Eumenes of Cardia - Greek scribe at Alexander's The Great court who after Alexander's death remained loyal defender of royal house and proved himself excellent general beating in battle and killing (in hand to hand combat) some of most distinguished Macedonian marshals.*
 
 [Eumenes - wikipedia](https://en.wikipedia.org/wiki/Eumenes)
 
