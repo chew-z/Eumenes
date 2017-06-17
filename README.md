@@ -114,6 +114,9 @@ optional arguments:
 * If you get into trouble with tracks *No Longer Available*, *Error* try again. Run eumenes.py again on the same playlist. Remove playlist and add again. Etc.
 * Watch in logs for error 403 - Too many requests.
 
+
+I have tested only under python 3
+
 There could be still some errors handling various edge cases (like no connection, proxy, some weird chars etc.) resulting in crashes. Please let me know on Issues.
 
 ## Anabasis
