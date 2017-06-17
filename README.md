@@ -37,8 +37,8 @@ IT WON"T WORK OTHERWISE.
 * Matching conditions are flexible - good matches pass automatically, dubious matches are left to user decision
 * You can search and add tracks in any country (technically iTunes storefront)
 * Flexible delay mechanism dealing with 403 error (Too many requests) when searching iTunes and adding tracks
-* Builds XML playlist for iTunes and comments
-* Honors Spotify playlist title 
+* Builds XML playlist for importing into iTunes 
+* Honors Spotify playlist title and comments
 * Everything in one script - retrieving Spotify info, matching with Apple Music, adding tracks, building playlist XML
 * Pretty detailed logging - educational if you fancy looking into logs
 
